@@ -5,7 +5,7 @@
   "chain_name": "milkyway",
   "chain_type": "initia",
   "is_initia_l1": false,
-  "initia_l1_chain_id": "initiation-2",
+  "initia_l1_chain_id": "initiation-2"
   "apis": {
     "tendermint_rpc_endpoint": {
         "address": "https://rpc-glados-4.anvil.asia-southeast.initia.xyz",
